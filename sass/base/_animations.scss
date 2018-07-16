@@ -1,0 +1,39 @@
+// Component Animations
+.js--hero__image {
+    opacity: 1;
+    animation-duration: 1.5s;
+}
+
+
+.js--hero__text,
+.js--card-1,
+.js--card-2,
+.js--card-3,
+.js--card-4,
+.js--rewards__content-left,
+.js--rewards__content-right,
+.js--featured__body,
+.js--product__body,
+.js--allocation__content-left,
+.js--allocation__content-right,
+.js--form {
+    opacity: 0;
+}
+
+.js--hero__image.animated,
+.js--hero__text.animated,
+.js--stages.animated,
+.js--card-1.animated,
+.js--card-2.animated,
+.js--card-3.animated,
+.js--card-4.animated,
+.js--rewards__content-left.animated,
+.js--rewards__content-right.animated,
+.js--featured__body.animated,
+.js--product__body.animated,
+.js--allocation__content-left.animated,
+.js--allocation__content-right.animated,
+.js--form.animated {
+    opacity: 1;
+    animation-duration: 1s;
+}

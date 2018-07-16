@@ -1,0 +1,24 @@
+.rewards, .allocation {
+
+    &__content-left {
+        flex: 0 0 90%;
+        height: 100%;
+        background-color: $color-white;
+    }
+
+    &__content-right {
+        flex: 0 0 90%;
+        height: 100%;
+        background-color: $site-color9;
+    }
+
+    &__image {
+        // height: auto;
+        width: 100%;
+        display: flex;
+    }
+}
+
+.stages__img {
+    margin: $spacing-horizontal-s 0;
+}
