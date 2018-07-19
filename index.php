@@ -16,6 +16,8 @@
 
         <?php include "partials/tutorial.php"; ?>
 
+        <?php include "partials/faq.php"; ?>
+
         <?php include "partials/allocation.php"; ?>
 
         <?php include "partials/roadmap.php"; ?>

@@ -13,6 +13,7 @@ function toggleBtn() {
     }
 }
 
+
 //DOM Manipulations on Page Scroll
 $(window).on("scroll", function(){
 
