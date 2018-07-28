@@ -12,7 +12,7 @@
             </div>
             <div class="card__body">
                 <div class="card__body-text">
-                    <h3 class="card__name">Main ICO</h3>
+                    <h3 class="card__name">X Private Sale</h3>
                     <h3 class="card__ern-value">62,500,000 ERN</h3>
                     <span class="card__dollar-value">$0.01</span>
                 </div>
@@ -58,7 +58,7 @@
                 <div class="card__body-text">
                     <h3 class="card__name">Pre-ICO</h3>
                     <h3 class="card__ern-value">150,000,000 ERN</h3>
-                    <span class="card__dollar-value">$0.01</span>
+                    <span class="card__dollar-value">$0.04</span>
                 </div>
             </div>
             <div class="card__footer">
@@ -80,7 +80,7 @@
                 <div class="card__body-text">
                     <h3 class="card__name">Main ICO</h3>
                     <h3 class="card__ern-value">187,500,000 ERN</h3>
-                    <span class="card__dollar-value">$0.01</span>
+                    <span class="card__dollar-value">$0.09</span>
                 </div>
             </div>
             <div class="card__footer">
